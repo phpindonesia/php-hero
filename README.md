@@ -13,13 +13,15 @@ Pertanyaan yang umumnya muncul adalah, ***"Saya ingin belajar pemrograman web me
 
 Oleh karena itu, **ikutilah tahapan-tahapan berikut** ini untuk bisa menjadi seorang programmer berbasis web yang handal dengan cepat dan efisien
 
-- Pelajari Bahasa Inggris
-- [Pelajari Dasar Jaringan Komputer dan Internet](01-networking-basics/00-index.md)
-- [Pelajari Dasar HTML dan CSS](02-html-css-basics/00-index.md)
-- [Pelajari Konsep Pemrograman Terstruktur (Imperative)](03-programming-concept-1/00-index.md)
-- [Pelajari Algoritma, Struktur Data](04-algorithm-data-structures/00-index.md)
-- [Pelajari Konsep Pemrograman Berorientasi Obyek (PBO/OOP)](05-programming-concept-2/00-index.md)
-- [Pelajari Cara Menggunakan Database](06-working-with-database/00-index.md)
-- [Pelajari Pemanfaatan Framework](07-php-frameworks/00-index.md) untuk mempercepat proses pembuatan aplikasi yang kita inginkan
+1. Menguasai Bahasa Inggris
+2. [Pelajari Dasar Jaringan Komputer dan Internet](01-networking-basics/00-index.md)
+3. [Pelajari Dasar HTML dan CSS](02-html-css-basics/00-index.md)
+4. [Pelajari Konsep Pemrograman Terstruktur (Imperative)](03-programming-concept-1/00-index.md)
+5. [Pelajari Algoritma, Struktur Data](04-algorithm-data-structures/00-index.md)
+6. [Pelajari Konsep Pemrograman Berorientasi Obyek (PBO/OOP)](05-programming-concept-2/00-index.md)
+7. [Pelajari Cara Menggunakan Database](06-working-with-database/00-index.md)
+8. [Pelajari Pemanfaatan Framework](07-php-frameworks/00-index.md) untuk mempercepat proses pembuatan aplikasi yang kita inginkan
+
+**Menguasai bahasa inggris** menjadi point penting saat belajar coding atau programmring, karena bisa dikatakan semua istilah dalam pemrograman yang ada sekarang menggunakan bahasa Inggris. Semua kata kunci (keyword) seperti if else while, adalah bahasa Inggris. Saat belajar algoritma, ketemu lagi dengan linked list, queue, structure, array. Bahasa Inggris juga. Dan yang lebih parah lagi kalau code yang kita buat mengalami error (tuh kan bahasa inggris), maka pesan kesalahan (error message) yang muncul semuanya dalam bahasa Inggris... Itulah sebabnya penguasaan terhadap bahasa inggris ada di nomor pertama, tidak harus bisa conversation (percakapan), minimal bisa membaca (reading) dan menulis (writing)... Intinya, ***English is a must***.
 
 **Semoga berguna!**
